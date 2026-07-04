@@ -1,0 +1,98 @@
+body {
+	background-color: #b8b8b8;
+}
+
+header {
+	background-color: #33ccff;
+}
+
+footer {
+	background-color: #030642;
+	color: white;
+}
+
+p {
+	color: black;
+	font-family: Comic Sans MS;
+	text-shadow: 2px 2px 3px red;
+}
+
+button {
+	color: white;
+	background-color: blue;
+	border: dashed 4px black;
+}
+
+a {
+	color: black;
+	font-family: Comic Sans MS;
+	text-shadow: 2px 2px 3px red;
+}
+
+marquee {
+	text-shadow: 2px 2px 3px red;
+	color: black;
+	font-family: arial;
+}
+
+h1 {
+   color: blue;
+   background-color: dodgerblue;
+   font-family: Audiowide;
+   text-align: center;
+   text-shadow: 2px 2px 3px mediumseagreen;
+}
+
+h2 {
+   color: black;
+   font-family: 'Courier New', monospace;
+   text-align: center;
+   text-shadow: 2px 2px 3px mediumseagreen;
+}
+
+div3 {
+	border: solid 4px darkgrey;
+	background-color: dodgerblue;
+	color: black;
+	margin: 25px;
+	padding: 25px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0b07fc;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}	
+	
+ul li a:hover {
+  background-color: #07f8fc;
+}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+}
+
+ul.topnav li a {
+  display: block;
+  color: black;
+  padding: 8px 16px;
+  text-decoration: none;
+}
