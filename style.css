@@ -1,5 +1,5 @@
 body {
-	background-color: #b8b8b8;
+	background-color: #e8e8e8;
 }
 
 header {
@@ -48,6 +48,12 @@ h2 {
    font-family: 'Courier New', monospace;
    text-align: center;
    text-shadow: 2px 2px 3px mediumseagreen;
+}
+
+div {
+	background-color: #b8b8b8;
+	margin: 25px;
+	padding: 25px;
 }
 
 div3 {
